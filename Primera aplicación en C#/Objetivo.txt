@@ -1,0 +1,6 @@
+Primera aplicación en C#
+Objetivo: Comprender el uso de variables, asignaciones y operaciones de forma simple en C#.
+
+Cree una aplicación de consola
+Solicite el ingreso de dos valores por pantalla
+Al final muestre en forma descriptiva los resultados de aplicar las cuatro operaciones básicas
